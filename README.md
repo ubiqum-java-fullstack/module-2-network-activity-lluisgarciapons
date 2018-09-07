@@ -7,3 +7,5 @@ Github training 2.5
 * Branches
 * Permissions 
 *Managing student repositories
+
+EDIT: from lluisgarcia
